@@ -1,0 +1,9 @@
+{
+  "appId": "com.sherobaba.runner",
+  "appName": "Shero Baba",
+  "webDir": "www",
+  "android": { "allowMixedContent": false, "backgroundColor": "#3A2111" },
+  "plugins": {
+    "SplashScreen": { "launchShowDuration": 1200, "launchAutoHide": true, "backgroundColor": "#C2410C", "showSpinner": false, "androidScaleType": "CENTER_CROP" }
+  }
+}

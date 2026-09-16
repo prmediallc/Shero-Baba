@@ -1,0 +1,8 @@
+node_modules/
+android/
+dist/
+*.jks
+*.keystore
+*.base64.txt
+play-service-account*.json
+.DS_Store
